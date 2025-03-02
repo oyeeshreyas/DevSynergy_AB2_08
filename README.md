@@ -22,8 +22,8 @@ Welcome to **Farm2Fork**, a platform that directly connects farmers and consumer
 
 ### 1️⃣ Clone the Repository  
 ```sh
-git clone https://github.com/your-repo/farm2fork.git
-cd farm2fork
+git clone https://github.com/your-repo/farmdirect.git
+cd farmdirect
 ```
 
 ### 2️⃣ Install Dependencies  
