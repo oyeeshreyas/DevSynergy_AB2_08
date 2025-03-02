@@ -37,6 +37,9 @@ npm run start
 ```
 Your site is now live on `http://localhost:8000` 🎉  
 
+Login:jjadhavshreyas84@gmail.com
+Password:waheguru123
+
 ## 📌 Usage  
 1️⃣ **Sign up/login** as a farmer or consumer  
 2️⃣ **List or browse** available produce with prices & stock updates  
@@ -48,4 +51,6 @@ Your site is now live on `http://localhost:8000` 🎉
 🔹 Multiple language support 🌍  
 🔹 Order tracking system 📦  
 
-💡 Got ideas or feedback? Feel free to contribute! 🚀 Happy farming! 🌾👨‍🌾  
+💡 Got ideas or feedback? Feel free to contribute! 🚀 Happy farming! 🌾👨‍🌾
+
+
