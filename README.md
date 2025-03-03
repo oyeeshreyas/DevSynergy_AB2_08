@@ -37,7 +37,7 @@ npm run start
 ```
 Your site is now live on `http://localhost:8000` 🎉  
 
-Login:jjadhavshreyas84@gmail.com
+Login:jjadhavshreyas84@gmai.com
 Password:waheguru123
 
 ## 📌 Usage  
